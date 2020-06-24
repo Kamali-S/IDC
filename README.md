@@ -1,4 +1,5 @@
 # IDC
+![Screenshot](Catdog_real.jpg)
 
 - My first Project working with images
 - I learnt about CNN and got interest in that by Andrew Ng
